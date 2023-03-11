@@ -1,0 +1,140 @@
+html, body
+{
+  margin: 0;
+}
+
+body
+{
+    background-image: url(bg.png);
+}
+
+.header1
+{
+    color: rgb(0, 0, 0); font-size: 50px;letter-spacing: 10px;margin-top: 80px;margin-left: 60px;
+    float: left;
+}
+
+.header
+{
+    color: rgb(0, 0, 0); font-size: 50px;letter-spacing: 10px;margin-top: 80px;
+    float: none;
+}
+
+.header img
+{
+    width: 80px;margin-left: -15px;
+}
+
+.header1 img
+{
+    width: 80px;margin-left: -15px;
+}
+
+.login_div
+{
+    background: #abf8ff;float: right;border-radius: 15px;margin-right: 20px;margin-top:"30px";padding: 20px; width: 50%;
+}
+
+.logo
+{
+    width: 80px;margin-top: 30px;border-radius: 40px;
+    background: linear-gradient(90deg, rgba(197,0,210,1) 0%, rgba(5,20,152,0.7456232492997199) 37%, rgba(0,251,3,0.7540266106442577) 68%, rgba(12,0,255,1) 100%);
+}
+
+#user_name1 {
+    font-size: 22px;
+}
+
+.color_black {
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#login_button
+{
+    width: 80%;border-radius: 15px;font-size: 18px;
+}
+
+.room_name
+{
+    cursor: pointer;
+    font-size: 20px;
+}
+
+#logout
+{
+    font-size: 20px; float: right;margin-top: 15px;
+}
+
+#output
+{
+    padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
+
+.input_div_room_page
+{
+    width: 80%;
+}
+
+.input_div label
+{
+    color: white;font-size: 20px;
+}
+
+.input_div_message_page
+{
+    position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+    margin-bottom: 16px;
+}
+.input_div_message_page label
+{
+    color: black;
+}
+.input_div_message_page #msg
+{
+    width: 80%;
+}
+.input_div_message_page button
+{
+    margin-top: 15px;
+    width: 50%; 
+}
+.color_white
+{
+    color: rgb(196, 1, 1);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.user_tick
+{
+    width:20px;
+}
+.message_h4
+{
+    padding-left:5px;color:grey;
+}
+#room_name {
+    background: linear-gradient(90deg, rgba(197,0,210,1) 0%, rgba(5,20,152,0.7456232492997199) 37%, rgba(0,251,3,0.7540266106442577) 68%, rgba(12,0,255,1) 100%);
+}
+
+#Game2 img{
+    size: 100px;
+}
+
+#gameh1 {
+    color: red;
+    background-color: aliceblue;
+}
+
+#color_white {
+    color: rgb(0, 0, 0);
+    float: right;
+    font-size: 30px;
+    margin-right: 60px;
+}
+
+#color_grey {
+    font-size: 22px;
+}
